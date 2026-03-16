@@ -23,6 +23,6 @@ The key observation: for opposite-root cross-pairs a ≡ r, b ≡ −r (mod p²)
 - Python verifier (v2, independent implementation): 25,658 breakpoints, N = 5,000 to 500,000. Zero failures.
 - Pair exchange analysis: for N ≤ 2,000, no single outsider or compatible outsider pair can match the base class.
 
-All ranges overlap. Verification scripts available at: https://github.com/hjyuh/MathsSTuff
+All ranges overlap. Verification scripts available at: https://github.com/hjyuh/erdos
 
 A detailed proof write-up is available upon request.
