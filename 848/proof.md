@@ -1,6 +1,6 @@
 # On A ⊆ [N] Such That ab+1 Is Never Squarefree: Resolution of Erdős Problem 848
 
-**Mahmoud**
+**Malek Z.**
 
 **March 2026**
 
@@ -217,7 +217,7 @@ Our proof relies on Sawhney's theorem for N > 10^7. Our contribution is the effi
 
 ## Acknowledgments
 
-This work was produced during a multi-day sprint (March 12–15, 2026) using a multi-AI pipeline. Claude (Anthropic, Opus 4.6) provided analysis, code, and orchestration. GPT-5.4 (OpenAI) provided mathematical proofs, algorithm design, and two rounds of adversarial review. Codex (OpenAI) implemented multiple iterations of the C++ verifier. All mathematical content and computational results have been verified by the human author.
+This work was produced during a multi-day sprint (March 12–15, 2026) using a multi-AI pipeline. Claude (Anthropic, Opus 4.6) provided analysis, code, and orchestration. GPT-5.4 (OpenAI) provided mathematical proofs, algorithm design, and two rounds of adversarial review. Codex (OpenAI) implemented multiple iterations of the C++ verifier. All mathematical content and computational results have been verified by Me.
 
 ---
 
@@ -238,4 +238,4 @@ This work was produced during a multi-day sprint (March 12–15, 2026) using a m
 - **erdos848_verifier_v5.cpp**: Production C++ verifier (sieve-based bitmask architecture)
 - **erdos848_v2.py**: Independent Python verifier
 - **erdos848_certificate_v5.tsv**: Full certificate (10M lines)
-- Repository: https://github.com/hjyuh/MathsSTuff
+- Repository: https://github.com/hjyuh/erdos
